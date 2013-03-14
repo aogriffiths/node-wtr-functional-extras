@@ -1,0 +1,25 @@
+{
+  "name": "functional-extras",
+  "description": "Functional extras to water your Node.js project",
+  "keywords": ["function", "functional", "bind", "partial", "cache"],
+  "version": "0.0.1",
+  "engines": {
+    "node": "*"
+  },
+  "author": {
+    "name": "Adam Griffiths",
+    "url": "https://github.com/aogriffiths"
+  },
+  "homepage": "https://github.com/aogriffiths/node-wtr-functional-extras",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aogriffiths/node-wtr-functional-extras.git"
+  },
+  "scripts": {
+    "test": "synct test/*.js"
+  },
+  "main": "./index",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
